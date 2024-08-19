@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jr+608UBsUk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maged\\source\\repos\\YouTube Downloader Eng Maged Ali\\YouTube Downloader - Eng Maged Ali\\YouTube Downloader - Eng Maged Ali.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maged\\.nuget\\packages\\anglesharp\\1.1.2\\anglesharp.1.1.2.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512",
+    "C:\\Users\\Maged\\.nuget\\packages\\youtubeexplode\\6.4.0\\youtubeexplode.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

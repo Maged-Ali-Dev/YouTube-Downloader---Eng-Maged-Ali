@@ -1,0 +1,40 @@
+C:\Users\Maged\source\repos\YouTube Downloader - Eng Maged Ali\YouTube Downloader - Eng Maged Ali\obj\Debug\net8.0-windows\YouTube Downloader - Eng Maged Ali.csproj.AssemblyReference.cache
+C:\Users\Maged\source\repos\YouTube Downloader - Eng Maged Ali\YouTube Downloader - Eng Maged Ali\obj\Debug\net8.0-windows\YouTube_Downloader___Eng_Maged_Ali.Form1.resources
+C:\Users\Maged\source\repos\YouTube Downloader - Eng Maged Ali\YouTube Downloader - Eng Maged Ali\obj\Debug\net8.0-windows\YouTube Downloader - Eng Maged Ali.csproj.GenerateResource.cache
+C:\Users\Maged\source\repos\YouTube Downloader - Eng Maged Ali\YouTube Downloader - Eng Maged Ali\obj\Debug\net8.0-windows\YouTube Downloader - Eng Maged Ali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maged\source\repos\YouTube Downloader - Eng Maged Ali\YouTube Downloader - Eng Maged Ali\obj\Debug\net8.0-windows\YouTube Downloader - Eng Maged Ali.AssemblyInfoInputs.cache
+C:\Users\Maged\source\repos\YouTube Downloader - Eng Maged Ali\YouTube Downloader - Eng Maged Ali\obj\Debug\net8.0-windows\YouTube Downloader - Eng Maged Ali.AssemblyInfo.cs
+C:\Users\Maged\source\repos\YouTube Downloader - Eng Maged Ali\YouTube Downloader - Eng Maged Ali\obj\Debug\net8.0-windows\YouTube Downloader - Eng Maged Ali.csproj.CoreCompileInputs.cache
+C:\Users\Maged\source\repos\YouTube Downloader - Eng Maged Ali\YouTube Downloader - Eng Maged Ali\bin\Debug\net8.0-windows\YouTube Downloader - Eng Maged Ali.exe
+C:\Users\Maged\source\repos\YouTube Downloader - Eng Maged Ali\YouTube Downloader - Eng Maged Ali\bin\Debug\net8.0-windows\YouTube Downloader - Eng Maged Ali.deps.json
+C:\Users\Maged\source\repos\YouTube Downloader - Eng Maged Ali\YouTube Downloader - Eng Maged Ali\bin\Debug\net8.0-windows\YouTube Downloader - Eng Maged Ali.runtimeconfig.json
+C:\Users\Maged\source\repos\YouTube Downloader - Eng Maged Ali\YouTube Downloader - Eng Maged Ali\bin\Debug\net8.0-windows\YouTube Downloader - Eng Maged Ali.dll
+C:\Users\Maged\source\repos\YouTube Downloader - Eng Maged Ali\YouTube Downloader - Eng Maged Ali\bin\Debug\net8.0-windows\YouTube Downloader - Eng Maged Ali.pdb
+C:\Users\Maged\source\repos\YouTube Downloader - Eng Maged Ali\YouTube Downloader - Eng Maged Ali\bin\Debug\net8.0-windows\AngleSharp.dll
+C:\Users\Maged\source\repos\YouTube Downloader - Eng Maged Ali\YouTube Downloader - Eng Maged Ali\bin\Debug\net8.0-windows\YoutubeExplode.dll
+C:\Users\Maged\source\repos\YouTube Downloader - Eng Maged Ali\YouTube Downloader - Eng Maged Ali\obj\Debug\net8.0-windows\YouTube .22C95760.Up2Date
+C:\Users\Maged\source\repos\YouTube Downloader - Eng Maged Ali\YouTube Downloader - Eng Maged Ali\obj\Debug\net8.0-windows\YouTube Downloader - Eng Maged Ali.dll
+C:\Users\Maged\source\repos\YouTube Downloader - Eng Maged Ali\YouTube Downloader - Eng Maged Ali\obj\Debug\net8.0-windows\refint\YouTube Downloader - Eng Maged Ali.dll
+C:\Users\Maged\source\repos\YouTube Downloader - Eng Maged Ali\YouTube Downloader - Eng Maged Ali\obj\Debug\net8.0-windows\YouTube Downloader - Eng Maged Ali.pdb
+C:\Users\Maged\source\repos\YouTube Downloader - Eng Maged Ali\YouTube Downloader - Eng Maged Ali\obj\Debug\net8.0-windows\YouTube Downloader - Eng Maged Ali.genruntimeconfig.cache
+C:\Users\Maged\source\repos\YouTube Downloader - Eng Maged Ali\YouTube Downloader - Eng Maged Ali\obj\Debug\net8.0-windows\ref\YouTube Downloader - Eng Maged Ali.dll
+C:\Users\Maged\source\repos\YouTube Downloader Eng Maged Ali\YouTube Downloader - Eng Maged Ali\bin\Debug\net8.0-windows\YouTube Downloader - Eng Maged Ali.exe
+C:\Users\Maged\source\repos\YouTube Downloader Eng Maged Ali\YouTube Downloader - Eng Maged Ali\bin\Debug\net8.0-windows\YouTube Downloader - Eng Maged Ali.deps.json
+C:\Users\Maged\source\repos\YouTube Downloader Eng Maged Ali\YouTube Downloader - Eng Maged Ali\bin\Debug\net8.0-windows\YouTube Downloader - Eng Maged Ali.runtimeconfig.json
+C:\Users\Maged\source\repos\YouTube Downloader Eng Maged Ali\YouTube Downloader - Eng Maged Ali\bin\Debug\net8.0-windows\YouTube Downloader - Eng Maged Ali.dll
+C:\Users\Maged\source\repos\YouTube Downloader Eng Maged Ali\YouTube Downloader - Eng Maged Ali\bin\Debug\net8.0-windows\YouTube Downloader - Eng Maged Ali.pdb
+C:\Users\Maged\source\repos\YouTube Downloader Eng Maged Ali\YouTube Downloader - Eng Maged Ali\bin\Debug\net8.0-windows\AngleSharp.dll
+C:\Users\Maged\source\repos\YouTube Downloader Eng Maged Ali\YouTube Downloader - Eng Maged Ali\bin\Debug\net8.0-windows\YoutubeExplode.dll
+C:\Users\Maged\source\repos\YouTube Downloader Eng Maged Ali\YouTube Downloader - Eng Maged Ali\obj\Debug\net8.0-windows\YouTube Downloader - Eng Maged Ali.csproj.AssemblyReference.cache
+C:\Users\Maged\source\repos\YouTube Downloader Eng Maged Ali\YouTube Downloader - Eng Maged Ali\obj\Debug\net8.0-windows\YouTube_Downloader___Eng_Maged_Ali.Form1.resources
+C:\Users\Maged\source\repos\YouTube Downloader Eng Maged Ali\YouTube Downloader - Eng Maged Ali\obj\Debug\net8.0-windows\YouTube Downloader - Eng Maged Ali.csproj.GenerateResource.cache
+C:\Users\Maged\source\repos\YouTube Downloader Eng Maged Ali\YouTube Downloader - Eng Maged Ali\obj\Debug\net8.0-windows\YouTube Downloader - Eng Maged Ali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maged\source\repos\YouTube Downloader Eng Maged Ali\YouTube Downloader - Eng Maged Ali\obj\Debug\net8.0-windows\YouTube Downloader - Eng Maged Ali.AssemblyInfoInputs.cache
+C:\Users\Maged\source\repos\YouTube Downloader Eng Maged Ali\YouTube Downloader - Eng Maged Ali\obj\Debug\net8.0-windows\YouTube Downloader - Eng Maged Ali.AssemblyInfo.cs
+C:\Users\Maged\source\repos\YouTube Downloader Eng Maged Ali\YouTube Downloader - Eng Maged Ali\obj\Debug\net8.0-windows\YouTube Downloader - Eng Maged Ali.csproj.CoreCompileInputs.cache
+C:\Users\Maged\source\repos\YouTube Downloader Eng Maged Ali\YouTube Downloader - Eng Maged Ali\obj\Debug\net8.0-windows\YouTube .22C95760.Up2Date
+C:\Users\Maged\source\repos\YouTube Downloader Eng Maged Ali\YouTube Downloader - Eng Maged Ali\obj\Debug\net8.0-windows\YouTube Downloader - Eng Maged Ali.dll
+C:\Users\Maged\source\repos\YouTube Downloader Eng Maged Ali\YouTube Downloader - Eng Maged Ali\obj\Debug\net8.0-windows\refint\YouTube Downloader - Eng Maged Ali.dll
+C:\Users\Maged\source\repos\YouTube Downloader Eng Maged Ali\YouTube Downloader - Eng Maged Ali\obj\Debug\net8.0-windows\YouTube Downloader - Eng Maged Ali.pdb
+C:\Users\Maged\source\repos\YouTube Downloader Eng Maged Ali\YouTube Downloader - Eng Maged Ali\obj\Debug\net8.0-windows\YouTube Downloader - Eng Maged Ali.genruntimeconfig.cache
+C:\Users\Maged\source\repos\YouTube Downloader Eng Maged Ali\YouTube Downloader - Eng Maged Ali\obj\Debug\net8.0-windows\ref\YouTube Downloader - Eng Maged Ali.dll
